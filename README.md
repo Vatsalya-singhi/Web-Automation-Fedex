@@ -1,4 +1,4 @@
-# Web-scraping-from-Fedex
+# Web-Automation-Fedex
 An selenium-python based software used for calculate rate and transit time.
 #Installation
 Install Selenium,pandas , numpy and ezodf python libraries.
